@@ -45,5 +45,6 @@ https://github.com/ablanco1950/Fracture.v1i_Reduced_Yolov10
 
 https://github.com/ablanco1950/Fracture.v1i_Reduced_YoloFromScratch
 
+https://github.com/ablanco1950/LicenSePlate_Yolov8_FilterSVM_PaddleOCR
 
 
