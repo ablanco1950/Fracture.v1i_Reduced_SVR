@@ -43,4 +43,7 @@ https://medium.com/@niousha.rf/support-vector-regressor-theory-and-coding-exerci
 
 https://github.com/ablanco1950/Fracture.v1i_Reduced_Yolov10
 
+https://github.com/ablanco1950/Fracture.v1i_Reduced_YoloFromScratch
+
+
 
