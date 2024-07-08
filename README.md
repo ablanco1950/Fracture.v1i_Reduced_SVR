@@ -3,7 +3,7 @@
 
 Requirements:
 
-It is required to have at least 36Gb of hard disk space and a computer with a RAM of around 16Gb of RAM is advisable since the process consumes a lot of these resources.
+It is required to have at least 36Gb of hard disk space and a computer with a RAM of around 16Gb of RAM is advisable, since the process consumes a lot of these resources.
 
 In case any of the necessary packages are not found, they can all be installed with a simple pip
 
@@ -27,9 +27,9 @@ The detection is checked in each of the test images by executing:
 
 Evaluate_Fracture.v1i_Reduced_SVR.py
 
-As the models add up to about 36Gb, you have to load them into memory because of the time it takes to boot.
+As the models sizes add up to about 36Gb, there is a time to load then and start the program
 
-It presents the list of predicted and true values ​​and then each of the images with a blue circle indicating the point where the fracture has been detected and a green box with which the image was labeled.
+In console it presents the list of predicted and true values ​​and then each of the images with a blue circle indicating the point where the fracture has been detected and a green box with which the image was labeled.
 
 A hit rate of 100% is achieved, practically: 9 hits out of 9 images in the test file.
 
