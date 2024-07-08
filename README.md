@@ -39,3 +39,4 @@ https://universe.roboflow.com/landy-aw2jb/fracture-ov5p1/dataset/1
 
 https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OneVsRestClassifier.html
 
+https://medium.com/@niousha.rf/support-vector-regressor-theory-and-coding-exercise-in-python-ca6a7dfda927
