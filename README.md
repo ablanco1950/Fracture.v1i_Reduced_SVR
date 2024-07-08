@@ -13,13 +13,13 @@ Two models are obtained separately, one to predict the Xcenter coordinate of the
 
 Execution:
 
-download dico and unzip the folders with the trainvalid and test images, being careful since some decompressors create double directories and then the programs do not find them (in this case it would be enough to copy the repeated folder and paste it over the project folder)
+download the project and unzip the folders with the trainvalidFractureOJumbo1.zip and testFractureOJumbo1.zip, being careful since some decompressors create double directories and then the programs do not find them (in this case it would be enough to copy the repeated folder and paste it over the project folder)
 
 Train:
 
 Train_Fracture.v1i_Reduced_SVR.py
 
-It takes depending on the computer (approximately 1 hour), but it is simpler than the different training using deep learning that I have used and cited in the references.
+It takes depending on the computer,approximately 1 hour, but it is simpler than the different training using deep learning that I have used with the same file and cited in the references.
 
 Assessment:
 
