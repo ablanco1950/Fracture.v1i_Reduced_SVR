@@ -47,4 +47,5 @@ https://github.com/ablanco1950/Fracture.v1i_Reduced_YoloFromScratch
 
 https://github.com/ablanco1950/LicenSePlate_Yolov8_FilterSVM_PaddleOCR
 
+https://github.com/ablanco1950/LFW_SVM_facecascade
 
