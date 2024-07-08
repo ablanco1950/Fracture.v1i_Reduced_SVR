@@ -32,3 +32,8 @@ As the models add up to about 36Gb, you have to load them into memory because of
 It presents the list of predicted and true values ​​and then each of the images with a blue circle indicating the point where the fracture has been detected and a green box with which the image was labeled.
 
 A hit rate of 100% is achieved, practically: 9 hits out of 9 images in the test file.
+
+References:
+
+https://universe.roboflow.com/landy-aw2jb/fracture-ov5p1/dataset/1
+
