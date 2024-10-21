@@ -1,5 +1,5 @@
 # Fracture.v1i_Reduced_SVR
- Detection of fractures in radiographs by obtaining the X and Y coordinates of the center of the fracture applying ML (SVR) to obtain the values ​​of these coordinates separately. It is applied to a selection of data from the Roboflow file https://universe.roboflow.com/landy-aw2jb/fracture-ov5p1/dataset/1 which represents a reduced but homogeneous version of that file.
+Detection of fractures in images by obtaining the X and Y coordinates of the center of the fracture applying ML (SVR). It is applied to a selection of data from the Roboflow file https://universe.roboflow.com/landy-aw2jb/fracture-ov5p1/dataset/1 Compared to other tests using DL for the same set of data, much better precision and training time have been obtained
 
 Requirements:
 
@@ -36,7 +36,7 @@ A hit rate of 100% is achieved, practically: 9 hits out of 9 images in the test 
 This test is part of a set of tests that use the same reduced set of fracture data applying different DL and ML techniques
 
 - https://github.com/ablanco1950/Fracture.v1i_Reduced_SSD
-- 
+
 - https://github.com/ablanco1950/Fracture.v1i_Reduced_YoloFromScratch
 
 - https://github.com/ablanco1950/Fracture.v1i_Reduced_Yolov10
@@ -68,6 +68,8 @@ https://medium.com/@niousha.rf/support-vector-regressor-theory-and-coding-exerci
 https://github.com/ablanco1950/Fracture.v1i_Reduced_Yolov10
 
 https://github.com/ablanco1950/Fracture.v1i_Reduced_YoloFromScratch
+
+https://github.com/ablanco1950/Fracture.v1i_Reduced_SSD
 
 https://github.com/ablanco1950/LicenSePlate_Yolov8_FilterSVM_PaddleOCR
 
