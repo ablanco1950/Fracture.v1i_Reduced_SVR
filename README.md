@@ -33,6 +33,8 @@ In console it presents the list of predicted and true values ​​and then each
 
 A hit rate of 100% is achieved, practically: 9 hits out of 9 images in the test file.
 
+![Fig1](url completa de la imagen)
+
 References:
 
 https://universe.roboflow.com/landy-aw2jb/fracture-ov5p1/dataset/1
