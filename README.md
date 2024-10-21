@@ -33,7 +33,7 @@ In console it presents the list of predicted and true values ​​and then each
 
 A hit rate of 100% is achieved, practically: 9 hits out of 9 images in the test file.
 
-![Fig1](url completa de la imagen)
+![Fig1](https://github.com/ablanco1950/Fracture.v1i_Reduced_SVR/blob/main/Figure_1.png)
 
 References:
 
