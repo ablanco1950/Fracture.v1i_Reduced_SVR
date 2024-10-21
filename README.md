@@ -33,6 +33,20 @@ In console it presents the list of predicted and true values ​​and then each
 
 A hit rate of 100% is achieved, practically: 9 hits out of 9 images in the test file.
 
+This test is part of a set of tests that use the same reduced set of fracture data applying different DL and ML techniques
+
+- https://github.com/ablanco1950/Fracture.v1i_Reduced_SSD
+- 
+- https://github.com/ablanco1950/Fracture.v1i_Reduced_YoloFromScratch
+
+- https://github.com/ablanco1950/Fracture.v1i_Reduced_Yolov10
+
+It outperforms all of them both in accuracy and in much shorter training time.
+
+On the other hand, it uses two models with an exaggerated size: 18Gb and 17Gb, which results in greater memory needs and loading time for the models when establishing the predictions
+
+The results are presented with the 9 test images, green box indicating the labeled box and blue circle indicating the predicted center of the fracture
+
 ![Fig1](https://github.com/ablanco1950/Fracture.v1i_Reduced_SVR/blob/main/Figure_1.png)
 ![Fig2](https://github.com/ablanco1950/Fracture.v1i_Reduced_SVR/blob/main/Figure_2.png)
 ![Fig3](https://github.com/ablanco1950/Fracture.v1i_Reduced_SVR/blob/main/Figure_3.png)
